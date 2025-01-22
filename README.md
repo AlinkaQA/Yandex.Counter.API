@@ -348,7 +348,6 @@ HTTP/1.1 200 OK
 </details>
 
 ## Инструменты
-
 <p align="left"> 
   <a href="https://docs.google.com/" target="_blank" rel="noreferrer"><img src="https://w7.pngwing.com/pngs/240/1015/png-transparent-g-suite-google-docs-google-angle-rectangle-logo.png" width="36" height="36" alt="Google Sheets" /></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
@@ -377,7 +376,7 @@ HTTP/1.1 200 OK
 [Тестовая документация с кликабельными ссылками на баг-репорты](https://docs.google.com/spreadsheets/d/1AeKZiU-iO1_I2YEBDO0Tl0sKq04iX72dwOP9e4Labv4/edit?gid=2006427015#gid=2006427015)
 
 ### Баг репорты
-<img width="1247" alt="Снимок экрана 2025-01-22 в 20 49 34" src="https://github.com/user-attachments/assets/f62abf0f-874c-4a8f-bc3d-94084e4c7eb3" />
+<img width="1259" alt="Снимок экрана 2025-01-22 в 20 55 11" src="https://github.com/user-attachments/assets/94e29472-ecd3-4d8a-9100-308ea91d568f" />
 
 ***
 
