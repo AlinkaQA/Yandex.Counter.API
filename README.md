@@ -351,9 +351,11 @@ HTTP/1.1 200 OK
 <p align="left"> 
   <a href="https://docs.google.com/" target="_blank" rel="noreferrer"><img src="https://w7.pngwing.com/pngs/240/1015/png-transparent-g-suite-google-docs-google-angle-rectangle-logo.png" width="36" height="36" alt="Google Sheets" /></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-  <a href="https://www.jetbrains.com/youtrack/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/YouTrack_Icon.png" width="36" height="36" alt="Youtrack" /></a>
- <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="postman" width="36" height="36" alt="Postman" /></a>
-</p> 
+  <a href="https://tracker.yandex.ru/pages/my" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Yandex_Tracker_logo.svg" width="36" height="36" alt="Яндекс Трекер" /></a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Postman_logo.png" title="Postman" width="36" height="36" alt="Postman" /></a>
+</p>
+
+
 
 ## Процесс работы
 
